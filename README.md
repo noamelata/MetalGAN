@@ -17,8 +17,10 @@ currently this is a work in progress
 
 ## Results
 first results with 64x64 were not to impressive, but proved that I am on the right track.
+![example](https://github.com/noamelata/MetalGAN/blob/main/MetalGAN%2064x64%20example.jpeg)
 
 For the second version I added a higher definition block, and added progressive training of different layers.
+![example](https://github.com/noamelata/MetalGAN/blob/main/MetalGAN%20128x128%20example.jpeg)
 
 ## What to expect
 I am currently tring to add a character based encoder, so that the GAN will be able to create a logo for a given name.
