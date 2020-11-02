@@ -10,6 +10,7 @@ I chose to try and generate metal band logos for several reasons.
   - they are mostly grey-scale (or monochrome and thus easily converted to grey-scale)
   - they retain meaning when resized
   - the can be quite hard to read, which makes the generator's job of creating believable images much easier
+
 I am running most of the training on my personal computer, thus I have to keep to as little computing power as possible.
 The implementation is mostly based on stackGAN.
 currently this is a work in progress
